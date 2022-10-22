@@ -12,7 +12,8 @@ Senha: 254589
       
    * [Tecnologias](#tecnologias)
    
-   *[Pretende Implementar](#Pretende Implementar)
+   *[Pretende Implementar](#Pretende)
+   
 
 
 # Telas
@@ -39,7 +40,7 @@ Escolhendo a área administrativa, é direcionado a uma tela de Login onde a pes
  * react-router-dom
  * styled-components
 
-#[#Pretende Implementar](#Pretende Implementar)
+*[Pretende Implementar](#Pretende)
  Ainda tenho que implementar a responsividade das páginas
 
 ## Meta
